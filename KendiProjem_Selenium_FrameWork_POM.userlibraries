@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-trace:1.28.0">
+    <archive path="/Users/ibrahim/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.28.0/opentelemetry-sdk-trace-1.28.0.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.7.36">
+    <archive path="/Users/ibrahim/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar" />
+  </library>
+  <library name="Maven: org.asynchttpclient:async-http-client:2.12.3">
+    <archive path="/Users/ibrahim/.m2/repository/org/asynchttpclient/async-http-client/2.12.3/async-http-client-2.12.3.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-transport-native-epoll:linux-x86_64:4.1.60.Final">
+    <archive path="/Users/ibrahim/.m2/repository/io/netty/netty-transport-native-epoll/4.1.60.Final/netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar" />
+  </library>
+  <library name="Maven: com.sun.activation:jakarta.activation:1.2.2">
+    <archive path="/Users/ibrahim/.m2/repository/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-transport-classes-kqueue:4.1.96.Final">
+    <archive path="/Users/ibrahim/.m2/repository/io/netty/netty-transport-classes-kqueue/4.1.96.Final/netty-transport-classes-kqueue-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: commons-codec:commons-codec:1.9">
+    <archive path="/Users/ibrahim/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-transport:4.1.96.Final">
+    <archive path="/Users/ibrahim/.m2/repository/io/netty/netty-transport/4.1.96.Final/netty-transport-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: org.mongodb:bson:3.3.0">
+    <archive path="/Users/ibrahim/.m2/repository/org/mongodb/bson/3.3.0/bson-3.3.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-exporter-logging:1.28.0">
+    <archive path="/Users/ibrahim/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.28.0/opentelemetry-exporter-logging-1.28.0.jar" />
+  </library>
+  <library name="Maven: com.aventstack:extentreports:4.0.9">
+    <archive path="/Users/ibrahim/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-common:1.28.0">
+    <archive path="/Users/ibrahim/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.28.0/opentelemetry-sdk-common-1.28.0.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-lang3:3.5">
+    <archive path="/Users/ibrahim/.m2/repository/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar" />
+  </library>
+  <library name="Maven: net.java.dev.jna:jna:5.12.1">
+    <archive path="/Users/ibrahim/.m2/repository/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-devtools-v85:4.12.1">
+    <archive path="/Users/ibrahim/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v85/4.12.1/selenium-devtools-v85-4.12.1.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents.core5:httpcore5-h2:5.2">
+    <archive path="/Users/ibrahim/.m2/repository/org/apache/httpcomponents/core5/httpcore5-h2/5.2/httpcore5-h2-5.2.jar" />
+  </library>
+  <library name="Maven: dev.failsafe:failsafe:3.3.2">
+    <archive path="/Users/ibrahim/.m2/repository/dev/failsafe/failsafe/3.3.2/failsafe-3.3.2.jar" />
+  </library>
+  <library name="Maven: com.google.guava:failureaccess:1.0.1">
+    <archive path="/Users/ibrahim/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-codec-http:4.1.96.Final">
+    <archive path="/Users/ibrahim/.m2/repository/io/netty/netty-codec-http/4.1.96.Final/netty-codec-http-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-api:4.12.1">
+    <archive path="/Users/ibrahim/.m2/repository/org/seleniumhq/selenium/selenium-api/4.12.1/selenium-api-4.12.1.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-transport-classes-epoll:4.1.96.Final">
+    <archive path="/Users/ibrahim/.m2/repository/io/netty/netty-transport-classes-epoll/4.1.96.Final/netty-transport-classes-epoll-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-support:4.12.1">
+    <archive path="/Users/ibrahim/.m2/repository/org/seleniumhq/selenium/selenium-support/4.12.1/selenium-support-4.12.1.jar" />
+  </library>
+  <library name="Maven: com.github.docker-java:docker-java-api:3.3.3">
+    <archive path="/Users/ibrahim/.m2/repository/com/github/docker-java/docker-java-api/3.3.3/docker-java-api-3.3.3.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.10.3">
+    <archive path="/Users/ibrahim/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.10.3/jackson-databind-2.10.3.jar" />
+  </library>
+  <library name="Maven: com.google.errorprone:error_prone_annotations:2.18.0">
+    <archive path="/Users/ibrahim/.m2/repository/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0.jar" />
+  </library>
+  <library name="Maven: org.bouncycastle:bcutil-jdk18on:1.75">
+    <archive path="/Users/ibrahim/.m2/repository/org/bouncycastle/bcutil-jdk18on/1.75/bcutil-jdk18on-1.75.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-manager:4.12.1">
+    <archive path="/Users/ibrahim/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.12.1/selenium-manager-4.12.1.jar" />
+  </library>
+  <library name="Maven: org.testng:testng:7.8.0">
+    <archive path="/Users/ibrahim/.m2/repository/org/testng/testng/7.8.0/testng-7.8.0.jar" />
+  </library>
+  <library name="Maven: net.bytebuddy:byte-buddy:1.14.5">
+    <archive path="/Users/ibrahim/.m2/repository/net/bytebuddy/byte-buddy/1.14.5/byte-buddy-1.14.5.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-handler-proxy:4.1.60.Final">
+    <archive path="/Users/ibrahim/.m2/repository/io/netty/netty-handler-proxy/4.1.60.Final/netty-handler-proxy-4.1.60.Final.jar" />
+  </library>
+  <library name="Maven: com.typesafe.netty:netty-reactive-streams:2.0.4">
+    <archive path="/Users/ibrahim/.m2/repository/com/typesafe/netty/netty-reactive-streams/2.0.4/netty-reactive-streams-2.0.4.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-safari-driver:4.12.1">
+    <archive path="/Users/ibrahim/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.12.1/selenium-safari-driver-4.12.1.jar" />
+  </library>
+  <library name="Maven: commons-logging:commons-logging:1.2">
+    <archive path="/Users/ibrahim/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-transport-native-unix-common:4.1.96.Final">
+    <archive path="/Users/ibrahim/.m2/repository/io/netty/netty-transport-native-unix-common/4.1.96.Final/netty-transport-native-unix-common-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: org.mongodb:mongodb-driver-core:3.3.0">
+    <archive path="/Users/ibrahim/.m2/repository/org/mongodb/mongodb-driver-core/3.3.0/mongodb-driver-core-3.3.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-context:1.28.0">
+    <archive path="/Users/ibrahim/.m2/repository/io/opentelemetry/opentelemetry-context/1.28.0/opentelemetry-context-1.28.0.jar" />
+  </library>
+  <library name="Maven: dk.brics.automaton:automaton:1.11-8">
+    <archive path="/Users/ibrahim/.m2/repository/dk/brics/automaton/automaton/1.11-8/automaton-1.11-8.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-logs:1.28.0">
+    <archive path="/Users/ibrahim/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.28.0/opentelemetry-sdk-logs-1.28.0.jar" />
+  </library>
+  <library name="Maven: com.github.javafaker:javafaker:1.0.2">
+    <archive path="/Users/ibrahim/.m2/repository/com/github/javafaker/javafaker/1.0.2/javafaker-1.0.2.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-api-events:1.28.0-alpha">
+    <archive path="/Users/ibrahim/.m2/repository/io/opentelemetry/opentelemetry-api-events/1.28.0-alpha/opentelemetry-api-events-1.28.0-alpha.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents.core5:httpcore5:5.2">
+    <archive path="/Users/ibrahim/.m2/repository/org/apache/httpcomponents/core5/httpcore5/5.2/httpcore5-5.2.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-devtools-v116:4.12.1">
+    <archive path="/Users/ibrahim/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v116/4.12.1/selenium-devtools-v116-4.12.1.jar" />
+  </library>
+  <library name="Maven: org.checkerframework:checker-qual:3.33.0">
+    <archive path="/Users/ibrahim/.m2/repository/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-http:4.12.1">
+    <archive path="/Users/ibrahim/.m2/repository/org/seleniumhq/selenium/selenium-http/4.12.1/selenium-http-4.12.1.jar" />
+  </library>
+  <library name="Maven: com.google.guava:guava:32.1.2-jre">
+    <archive path="/Users/ibrahim/.m2/repository/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-buffer:4.1.96.Final">
+    <archive path="/Users/ibrahim/.m2/repository/io/netty/netty-buffer/4.1.96.Final/netty-buffer-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-java:4.12.1">
+    <archive path="/Users/ibrahim/.m2/repository/org/seleniumhq/selenium/selenium-java/4.12.1/selenium-java-4.12.1.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-common:4.1.96.Final">
+    <archive path="/Users/ibrahim/.m2/repository/io/netty/netty-common/4.1.96.Final/netty-common-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: com.github.docker-java:docker-java-core:3.3.3">
+    <archive path="/Users/ibrahim/.m2/repository/com/github/docker-java/docker-java-core/3.3.3/docker-java-core-3.3.3.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-compress:1.21">
+    <archive path="/Users/ibrahim/.m2/repository/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar" />
+  </library>
+  <library name="Maven: org.bouncycastle:bcprov-jdk18on:1.75">
+    <archive path="/Users/ibrahim/.m2/repository/org/bouncycastle/bcprov-jdk18on/1.75/bcprov-jdk18on-1.75.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-json:4.12.1">
+    <archive path="/Users/ibrahim/.m2/repository/org/seleniumhq/selenium/selenium-json/4.12.1/selenium-json-4.12.1.jar" />
+  </library>
+  <library name="Maven: com.github.docker-java:docker-java-transport:3.3.3">
+    <archive path="/Users/ibrahim/.m2/repository/com/github/docker-java/docker-java-transport/3.3.3/docker-java-transport-3.3.3.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-semconv:1.28.0-alpha">
+    <archive path="/Users/ibrahim/.m2/repository/io/opentelemetry/opentelemetry-semconv/1.28.0-alpha/opentelemetry-semconv-1.28.0-alpha.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-codec-socks:4.1.60.Final">
+    <archive path="/Users/ibrahim/.m2/repository/io/netty/netty-codec-socks/4.1.60.Final/netty-codec-socks-4.1.60.Final.jar" />
+  </library>
+  <library name="Maven: org.reactivestreams:reactive-streams:1.0.3">
+    <archive path="/Users/ibrahim/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-exec:1.3">
+    <archive path="/Users/ibrahim/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-transport-native-kqueue:4.1.96.Final">
+    <archive path="/Users/ibrahim/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.96.Final/netty-transport-native-kqueue-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpcore:4.4.4">
+    <archive path="/Users/ibrahim/.m2/repository/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-api:1.28.0">
+    <archive path="/Users/ibrahim/.m2/repository/io/opentelemetry/opentelemetry-api/1.28.0/opentelemetry-api-1.28.0.jar" />
+  </library>
+  <library name="Maven: org.mongodb:mongodb-driver:3.3.0">
+    <archive path="/Users/ibrahim/.m2/repository/org/mongodb/mongodb-driver/3.3.0/mongodb-driver-3.3.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-extension-incubator:1.28.0-alpha">
+    <archive path="/Users/ibrahim/.m2/repository/io/opentelemetry/opentelemetry-extension-incubator/1.28.0-alpha/opentelemetry-extension-incubator-1.28.0-alpha.jar" />
+  </library>
+  <library name="Maven: com.github.mifmif:generex:1.0.2">
+    <archive path="/Users/ibrahim/.m2/repository/com/github/mifmif/generex/1.0.2/generex-1.0.2.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-extension-autoconfigure:1.28.0">
+    <archive path="/Users/ibrahim/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.28.0/opentelemetry-sdk-extension-autoconfigure-1.28.0.jar" />
+  </library>
+  <library name="Maven: org.webjars:jquery:3.6.1">
+    <archive path="/Users/ibrahim/.m2/repository/org/webjars/jquery/3.6.1/jquery-3.6.1.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-devtools-v115:4.12.1">
+    <archive path="/Users/ibrahim/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v115/4.12.1/selenium-devtools-v115-4.12.1.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents.client5:httpclient5:5.2.1">
+    <archive path="/Users/ibrahim/.m2/repository/org/apache/httpcomponents/client5/httpclient5/5.2.1/httpclient5-5.2.1.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:4.12.1">
+    <archive path="/Users/ibrahim/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.12.1/selenium-firefox-driver-4.12.1.jar" />
+  </library>
+  <library name="Maven: com.google.code.findbugs:jsr305:3.0.2">
+    <archive path="/Users/ibrahim/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-remote-driver:4.12.1">
+    <archive path="/Users/ibrahim/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.12.1/selenium-remote-driver-4.12.1.jar" />
+  </library>
+  <library name="Maven: com.google.auto.service:auto-service-annotations:1.1.1">
+    <archive path="/Users/ibrahim/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-handler:4.1.96.Final">
+    <archive path="/Users/ibrahim/.m2/repository/io/netty/netty-handler/4.1.96.Final/netty-handler-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: com.google.code.gson:gson:2.8.5">
+    <archive path="/Users/ibrahim/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar" />
+  </library>
+  <library name="Maven: com.github.docker-java:docker-java:3.3.3">
+    <archive path="/Users/ibrahim/.m2/repository/com/github/docker-java/docker-java/3.3.3/docker-java-3.3.3.jar" />
+  </library>
+  <library name="Maven: commons-io:commons-io:2.6">
+    <archive path="/Users/ibrahim/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar" />
+  </library>
+  <library name="Maven: org.bouncycastle:bcpkix-jdk18on:1.75">
+    <archive path="/Users/ibrahim/.m2/repository/org/bouncycastle/bcpkix-jdk18on/1.75/bcpkix-jdk18on-1.75.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-chromium-driver:4.12.1">
+    <archive path="/Users/ibrahim/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.12.1/selenium-chromium-driver-4.12.1.jar" />
+  </library>
+  <library name="Maven: com.github.docker-java:docker-java-transport-httpclient5:3.3.3">
+    <archive path="/Users/ibrahim/.m2/repository/com/github/docker-java/docker-java-transport-httpclient5/3.3.3/docker-java-transport-httpclient5-3.3.3.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk:1.28.0">
+    <archive path="/Users/ibrahim/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.28.0/opentelemetry-sdk-1.28.0.jar" />
+  </library>
+  <library name="Maven: org.asynchttpclient:async-http-client-netty-utils:2.12.3">
+    <archive path="/Users/ibrahim/.m2/repository/org/asynchttpclient/async-http-client-netty-utils/2.12.3/async-http-client-netty-utils-2.12.3.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-transport-native-kqueue:osx-x86_64:4.1.60.Final">
+    <archive path="/Users/ibrahim/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.60.Final/netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-os:4.12.1">
+    <archive path="/Users/ibrahim/.m2/repository/org/seleniumhq/selenium/selenium-os/4.12.1/selenium-os-4.12.1.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-transport-native-epoll:4.1.96.Final">
+    <archive path="/Users/ibrahim/.m2/repository/io/netty/netty-transport-native-epoll/4.1.96.Final/netty-transport-native-epoll-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpclient:4.5.2">
+    <archive path="/Users/ibrahim/.m2/repository/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-resolver:4.1.96.Final">
+    <archive path="/Users/ibrahim/.m2/repository/io/netty/netty-resolver/4.1.96.Final/netty-resolver-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: org.freemarker:freemarker:2.3.23">
+    <archive path="/Users/ibrahim/.m2/repository/org/freemarker/freemarker/2.3.23/freemarker-2.3.23.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-metrics:1.28.0">
+    <archive path="/Users/ibrahim/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.28.0/opentelemetry-sdk-metrics-1.28.0.jar" />
+  </library>
+  <library name="Maven: org.yaml:snakeyaml:android:1.23">
+    <archive path="/Users/ibrahim/.m2/repository/org/yaml/snakeyaml/1.23/snakeyaml-1.23-android.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-extension-autoconfigure-spi:1.28.0">
+    <archive path="/Users/ibrahim/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.28.0/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar" />
+  </library>
+  <library name="Maven: com.beust:jcommander:1.82">
+    <archive path="/Users/ibrahim/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar" />
+  </library>
+  <library name="Maven: org.brotli:dec:0.1.2">
+    <archive path="/Users/ibrahim/.m2/repository/org/brotli/dec/0.1.2/dec-0.1.2.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-devtools-v114:4.12.1">
+    <archive path="/Users/ibrahim/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v114/4.12.1/selenium-devtools-v114-4.12.1.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-edge-driver:4.12.1">
+    <archive path="/Users/ibrahim/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.12.1/selenium-edge-driver-4.12.1.jar" />
+  </library>
+  <library name="Maven: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava">
+    <archive path="/Users/ibrahim/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-ie-driver:4.12.1">
+    <archive path="/Users/ibrahim/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.12.1/selenium-ie-driver-4.12.1.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:4.12.1">
+    <archive path="/Users/ibrahim/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.12.1/selenium-chrome-driver-4.12.1.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-codec:4.1.96.Final">
+    <archive path="/Users/ibrahim/.m2/repository/io/netty/netty-codec/4.1.96.Final/netty-codec-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpmime:4.5.2">
+    <archive path="/Users/ibrahim/.m2/repository/org/apache/httpcomponents/httpmime/4.5.2/httpmime-4.5.2.jar" />
+  </library>
+  <library name="Maven: io.github.bonigarcia:webdrivermanager:5.5.3">
+    <archive path="/Users/ibrahim/.m2/repository/io/github/bonigarcia/webdrivermanager/5.5.3/webdrivermanager-5.5.3.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.10.3">
+    <archive path="/Users/ibrahim/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.3/jackson-annotations-2.10.3.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.10.3">
+    <archive path="/Users/ibrahim/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.10.3/jackson-core-2.10.3.jar" />
+  </library>
+  <library name="Maven: com.google.j2objc:j2objc-annotations:2.8">
+    <archive path="/Users/ibrahim/.m2/repository/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar" />
+  </library>
+  <library name="Maven: org.slf4j:jcl-over-slf4j:1.7.30">
+    <archive path="/Users/ibrahim/.m2/repository/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30.jar" />
+  </library>
+</eclipse-userlibraries>
+

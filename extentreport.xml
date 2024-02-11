@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Extent Reports Suite">
+    <listeners>
+        <listener class-name="Utilities.BaseReport"/>
+    </listeners>
+    <test name="Extent Reports Test">
+        <classes>
+            <class name="test.US_09_MakeUp_Test_ibrahim"/>
+
+        </classes>
+    </test>
+</suite>
