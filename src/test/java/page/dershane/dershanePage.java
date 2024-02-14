@@ -6,6 +6,7 @@ import Utilities.ReusableMethods;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 
 public class dershanePage {
@@ -45,12 +46,11 @@ public class dershanePage {
 
     public void nameVerify() {
         loginOl();
-        if (dropdownButton.getText().contains("İBRAHİM VESEK")) {
+        if (dropdownButton.getText().equals("İBRAHİM VESEK")) {
             System.out.println("ibrahim vesek login oldu");
         } else {
             System.out.println("kullanıcı değiştirilecek.");
         }
-
     }
 
     public void nameVerify_Cikis() {
@@ -61,7 +61,6 @@ public class dershanePage {
         } else {
             System.out.println("kullanıcı değiştirilecek.");
         }
-
     }
 
     public void derslerClick() {
@@ -79,14 +78,16 @@ public class dershanePage {
             System.out.println("kullanıcı değiştirilecek.");
         }
     }
+
     public void negativeDatalarlaLoginOl() {
         Driver.getDriver().get(ConfigurationReader.getProperty("dershaneUrl"));
         userNameInput.sendKeys("ibrahim.vesek");
         passwordInput.sendKeys("Vesek");
         stoysButton.click();
         dropdownButton.getText().contains("İBRAHİM VESEK");
-
     }
 
-
+    public void nameVerifyAssert() {
+        Assert.assertTrue(dropdownButton.getText().contains("İBRAHİM VESEK"));
+    }
 }
