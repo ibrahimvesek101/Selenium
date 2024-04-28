@@ -13,13 +13,9 @@ public class dershaneTests {
         dp.loginOl();
     }
 
-
     @Test
     public void negatifSenaryoLoginOlTest() {
         dp.negativeDatalarlaLoginOl();
-
-
-
     }
 
     @Test
@@ -27,8 +23,6 @@ public class dershaneTests {
         dp.loginOl();
         dp.derslerClick();
     }
-
-
 
     @Test
     public void nameVerifyTest() {
@@ -42,12 +36,17 @@ public class dershaneTests {
         dp.nameVerify_Cikis();
     }
 
-
     @Test
     public void konuClickTest() {
         dp.loginOl();
         ReusableMethods.clickButtonWithJSE(dp.derslerButton, Driver.getDriver());
         dp.konuClick();
     }
+
+
+
+
+
+
 
 }
