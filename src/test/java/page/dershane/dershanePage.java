@@ -35,6 +35,10 @@ public class dershanePage {
     @FindBy(xpath = "//*[text()='Konu Materyali']")
     public WebElement konuButton;
 
+    //youtube
+    @FindBy(xpath = "//*[@class='ytp-play-button ytp-button']")
+    public static WebElement playButton;
+
 
     public void loginOl() {
         Driver.getDriver().get(ConfigurationReader.getProperty("dershaneUrl"));
